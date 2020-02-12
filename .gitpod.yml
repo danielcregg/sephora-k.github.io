@@ -1,5 +1,5 @@
 image:
-  file: Dockerfile
+  file: dockerfile
 ports:
   - port: 8080
     onOpen: open-preview
