@@ -28,3 +28,15 @@ button {
     background-color: dodgerblue;
     color: white;
 }
+
+
+
+
+
+/* -- RESPONSIVE DEVICES --
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) {...}
+
+
+
+*\
