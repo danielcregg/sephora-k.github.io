@@ -2,12 +2,13 @@
     <head>
         <link rel="stylesheet" href="styles.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        
+        <!-- icons library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
             
 
-        <nav class="navbar navbar-expand-md navbar dark bg-dark sticky-top"> <!-- (option)change sticky top to fixed bottom -->
+        <nav class="navbar navbar-expand-md navbar dark bg-dark fixed-top"> <!-- (option)change sticky top to fixed bottom -->
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><img src="images/logo.JPG" height="50" width="80"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
@@ -16,16 +17,16 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav nl-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
+                        <a class="nav-link" href="gallery.php">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Blog</a>
+                        <a class="nav-link" href="blog.php">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -62,23 +63,44 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                 <img src="images/look_1.jpg" class="d-block w-100" height="800" width="900" alt="First Look">
+                 <img src="images/logo.JPG" class="d-block w-100" height="800" width="400" alt="Logo">
                 </div>
                 <div class="carousel-item">
-                <img src="images/look_2.jpg" class="d-block w-100" height="800" width="900" alt="Second Look">
+                <img src="images/look_1.jpg" class="d-block w-100" height="800" width="400" alt="First Look">
                 </div>
                 <div class="carousel-item">
-                <img src="images/look_3.jpg" class="d-block w-100" height="800" width="900" alt="Third Look">
+                <img src="images/look_2.jpg" class="d-block w-100" height="800" width="400" alt="Second Look">
                 </div>
                 <div class="carousel-item">
-                <img src="images/look_4.jpg" class="d-block w-100" height="800" width="900" alt="Fourth Look">
+                <img src="images/look_3.jpg" class="d-block w-100" height="800" width="400" alt="Third Look">
                 </div>
                 <div class="carousel-item">
-                <img src="images/look_5.jpg" class="d-block w-100" height="800" width="900" alt="Fifth Look">
+                <img src="images/look_4.jpg" class="d-block w-100" height="750" width="400" alt="Fourth Look">
+                </div>
+                <div class="carousel-item">
+                <img src="images/look_5.jpg" class="d-block w-100" height="750" width="400" alt="Fifth Look">
                 </div>
             </div>
             </div>
 
+     <!-- Footer -->
+            <footer class="page-footer font-small pt-4 fixed-bottom">
+
+            <div class="social-icons">
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-twitter"></a>
+            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="fa fa-snapchat-ghost"></a>
+            </div>
+
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+            </div>
+
+            </footer>
+            <!-- https://www.w3schools.com/howto/howto_css_social_media_buttons.asp 
+            https://mdbootstrap.com/docs/jquery/navigation/footer/
+            -->
 
         
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
