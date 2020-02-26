@@ -9,7 +9,7 @@
 
         <nav class="navbar navbar-expand-md navbar dark bg-dark sticky-top"> <!-- (option)change sticky top to fixed bottom -->
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="Screenshot/logo.jpg"></a>
+            <a class="navbar-brand" href="#"><img src="images/logo.JPG" height="50" width="80"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -62,19 +62,19 @@
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                 <img src="Screenshots/look_1.jpg" class="d-block w-100" alt="First Look">
+                 <img src="images/look_1.jpg" class="d-block w-100" height="800" width="900" alt="First Look">
                 </div>
                 <div class="carousel-item">
-                <img src="Screenshots/look_2.jpg" class="d-block w-100" alt="Second Look">
+                <img src="images/look_2.jpg" class="d-block w-100" height="800" width="900" alt="Second Look">
                 </div>
                 <div class="carousel-item">
-                <img src="Screenshots/look_3.jpg" class="d-block w-100" alt="Third Look">
+                <img src="images/look_3.jpg" class="d-block w-100" height="800" width="900" alt="Third Look">
                 </div>
                 <div class="carousel-item">
-                <img src="Screenshots/look_4.jpg" class="d-block w-100" alt="Fourth Look">
+                <img src="images/look_4.jpg" class="d-block w-100" height="800" width="900" alt="Fourth Look">
                 </div>
                 <div class="carousel-item">
-                <img src="Screenshots/look_5.jpg" class="d-block w-100" alt="Fifth Look">
+                <img src="images/look_5.jpg" class="d-block w-100" height="800" width="900" alt="Fifth Look">
                 </div>
             </div>
             </div>

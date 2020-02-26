@@ -30,9 +30,9 @@ button {
 }
 
 
-
-
-
+.navbar-toggler-icon {
+    background-color: #fff;
+}
 /* -- RESPONSIVE DEVICES --
 Medium (md) devices (tablets, 768px and up)
 @media (min-width: 768px) {...}
