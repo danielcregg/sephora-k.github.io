@@ -36,7 +36,10 @@
             <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">GALLERY</h1>
-                <p class="lead">As a freelance </p>
+                <p class="lead">As a freelance, I like to divide my service between Galway and Castlebar in Mayo.
+                 At the moment I am mostly based in Galway.<br>
+                 This gallery is a showcase of my work throughout the year.
+                </p>
             </div>
         </div>
         </section>  
