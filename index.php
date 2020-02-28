@@ -10,7 +10,7 @@
 <!-- *NAVBAR* -->            
        <nav class="navbar navbar-expand-md navbar dark bg-dark sticky-top"> <!-- (option)change sticky top to fixed bottom -->
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="images/logo.JPG" height="25" width="40"></a>
+            <a class="navbar-brand" href="#"><img src="images/logo/icon.png" height="25" width="40"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -42,6 +42,7 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
+
         <section class="fwh-slide fwh-slide--bg-gray">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -50,6 +51,7 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
+
         <section class="fwh-slide fwh-slide--bg-darkgray">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -58,6 +60,7 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
+
         <section class="fwh-slide fwh-slide--bg-silver">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -66,6 +69,7 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
+
         <section class="fwh-slide fwh-slide--bg-lightgray">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
