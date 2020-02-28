@@ -14,10 +14,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active">
+                        <li class="nav-item">
                             <a class="nav-link" href="index.php">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item active">
                             <a class="nav-link" href="gallery.php">Gallery</a>
                         </li>
                         <li class="nav-item">
@@ -32,10 +32,23 @@
         </nav>
 <!-- *NAVBAR* -->       
        
-<!-- *IMAGE* -->
-        <img src="" class="rounded float-left" alt="">
-        <img src="" class="rounded float-right" alt="">
-<!-- *IMAGE* -->       
+        <section class="fwh-slide fwh-slide--bg-lightgray">
+            <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">GALLERY</h1>
+                <p class="lead">As a freelance </p>
+            </div>
+        </div>
+        </section>  
+
+        <section class="fwh-slide fwh-slide--bg-silver">
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        </section>   
        
        
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

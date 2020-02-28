@@ -46,7 +46,11 @@ p {
     margin-bottom: 1rem;
     color: black;
 }
- 
+
+.lead {
+    color:black;
+}
+
 button {
     cursor: pointer;
     appearance: none;
