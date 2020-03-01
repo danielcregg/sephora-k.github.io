@@ -64,8 +64,42 @@ button {
     color: white;
 }
 
-#carouselExampleSlidesOnly {
-    margin-top: 45px;
+.containerGallery{
+    width: 100%;
+    display: grid;
+    grid-auto-flow: dense;
+    grid-template:  "1fr 1fr 1fr 1fr 1fr" 33.33vh
+                    "1fr 1fr 1fr 1fr 1fr" 33.33vh
+                    "1fr 1fr 1fr 1fr 1fr" 33.33vh;
+    grid-gap: 5px;
+}
+
+.containerGallery .box {
+    position: relative;
+}
+
+.containerGallery .box .img {
+
+}
+
+.containerGallery .box .a {
+    grid-row: span 2; 
+}
+
+.containerGallery .box .b {
+    grid-column: span 2; 
+}
+
+.containerGallery .box .f {
+    grid-column: span 2; 
+}
+
+.containerGallery .box .h {
+    grid-column: span 2; 
+}
+
+.containerGallery .box .j {
+    grid-column: span 2; 
 }
 
 form {
