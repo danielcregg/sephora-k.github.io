@@ -47,6 +47,11 @@ p {
     color: black;
 }
 
+.container {
+ position: fixed;
+ margin: auto;
+ padding: auto;
+}
 
 button {
     cursor: pointer;
