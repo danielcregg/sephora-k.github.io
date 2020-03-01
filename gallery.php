@@ -8,7 +8,7 @@
 <!-- *NAVBAR* -->
         <nav class="navbar navbar-expand-md navbar dark bg-dark sticky-top"> <!-- (option)change sticky top to fixed bottom -->
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="images/logo.JPG" height="25" width="40"></a>
+                <a class="navbar-brand" href="#"><img src="images/logo/icon.png" height="30" width="30"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -33,7 +33,7 @@
 <!-- *NAVBAR* -->       
        
         <section class="fwh-slide fwh-slide--bg-lightgray">
-            <div class="jumbotron jumbotron-fluid">
+            <div class="jumbotron jumbotron-fluid bg-secondary">
             <div class="container">
                 <h1 class="display-4">GALLERY</h1>
                 <p class="lead">As a freelance, I like to divide my service between Galway and Castlebar in Mayo.
