@@ -1,5 +1,7 @@
 <html>
     <head>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Gallery</title>
         <link rel="stylesheet" href="styles.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         
@@ -34,33 +36,49 @@
        
         <section class="fwh-slide fwh-slide--bg-lightgray">
             <div class="jumbotron jumbotron-fluid bg-secondary">
-            <div class="container">
+            
                 <h1 class="display-4">GALLERY</h1>
                 <p class="lead">As a freelance, I like to divide my service between Galway and Castlebar in Mayo.
                  At the moment I am mostly based in Galway.<br>
                  This gallery is a showcase of my work throughout the year.
                 </p>
-            </div>
+            
         </div>
         </section>  
 
         <section class="fwh-slide fwh-slide--bg-silver">
         <div class="containerGallery">
-            <div class="box a"></div>
-            <div class="box b"></div>
-            <div class="box c"></div>
-            <div class="box d"></div>
-            <div class="box e"></div>
-            <div class="box f"></div>
-            <div class="box g"></div>
-            <div class="box h"></div>
-            <div class="box i"></div>
-            <div class="box j"></div>
+            <div class="box a">
+                <img src="images/look_1.jpg" height="400px" width="400px">
+            </div>
+            <div class="box b">
+                <img src="images/look_2.jpg" height="400px" width="400px">
+            </div>
+            <div class="box c">
+                <img src="images/look_3.jpg" height="400px" width="400px">
+            </div>
+            <div class="box d">
+                <img src="images/look_4.jpg" height="400px" width="400px">
+            </div>
+            <div class="box e">
+                <img src="images/look_5.jpg" height="400px" width="400px">
+            </div>
+            <div class="box f">
+                <img src="images/look_5.jpg" height="400px" width="400px">
+            </div>
+            <div class="box g">
+                <img src="images/look_6.jpg" height="400px" width="400px">
+            </div>
+            <div class="box h">
+                <img src="images/look_7.jpg" height="400px" width="400px">
+            </div>
+            <div class="box i">
+                <img src="images/look_8.jpg" height="400px" width="400px">
+            </div>
+            <div class="box j">
+                <img src="images/look_9.jpg" height="400px" width="400px">
+            </div>
         </div>
-
-
-
-
         </section>   
        
        
