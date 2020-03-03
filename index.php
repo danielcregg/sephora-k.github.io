@@ -33,12 +33,54 @@
         </nav> 
 <!-- *NAVBAR* -->
 
-        <section class="fwh-slide fwh-slide--bg-darkgray">
+        <section class="fwh-slide fwh-slide--bg-lightgray">
     
-            
             <img src="images/logo/logoAnimatedG.gif" class="img-fluid" height="900px" width="1500px" alt="Simply Steph">
            
         
+        </section>
+
+        <section class="fwh-slide fwh-slide--bg-silver">
+
+            <div class="jumbotron jumbotron-fluid">
+                <h1 class="display-4">Fluid jumbotron</h1>
+                <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+            </div>
+            
+        <div class="content">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="3000">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="images/look_16.jpg" class="d-block w-100" alt="Slideshow">
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/look_5.jpg" class="d-block w-100" alt="Slideshow">
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/look_12.jpg" class="d-block w-100" alt="Slideshow">
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="images/look_4.jpg" class="d-block w-100" alt="Slideshow">
+                    </div>
+                    
+                    <div class="carousel-item">
+                        <img src="images/look_11.jpg" class="d-block w-100" alt="Slideshow">
+                    </div>
+                </div>
+            </div> 
+        </div> 
+        </section>
+
+        <section class="fwh-slide fwh-slide--bg-darkgray">
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
         </section>
 
         <section class="fwh-slide fwh-slide--bg-gray">
@@ -50,25 +92,7 @@
         </p>
         </section>
 
-        <section class="fwh-slide fwh-slide--bg-darkgray">
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-        </section>
-
-        <section class="fwh-slide fwh-slide--bg-silver">
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-        </section>
-
-        <section class="fwh-slide fwh-slide--bg-lightgray">
+        <section class="fwh-slide fwh-slide--bg-dimgray">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

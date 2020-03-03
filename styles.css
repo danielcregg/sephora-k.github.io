@@ -47,9 +47,10 @@ p {
     color: black;
 }
 
-.img-fluid {
-    margin-top: 80px;
-    margin-left: 100px;
+.content {
+    margin: auto;
+    padding: 20px;
+    width: 600px;
 }
 
 button {
