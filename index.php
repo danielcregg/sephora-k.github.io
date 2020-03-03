@@ -5,6 +5,7 @@
         <!-- icons library -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
+
     <body>
 <!-- *NAVBAR* -->            
        <nav class="navbar navbar-expand-md navbar dark bg-dark sticky-top"> <!-- (option)change sticky top to fixed bottom -->
@@ -35,7 +36,7 @@
 
         <section class="fwh-slide fwh-slide--bg-lightgray">
     
-            <img src="images/logo/logoAnimatedG.gif" class="img-fluid" height="900px" width="1500px" alt="Simply Steph">
+            <img src="images/logo/logoAnimatedG.gif" class="img-fluid" height="800px" width="1000px" alt="Simply Steph">
            
         
         </section>
@@ -43,8 +44,13 @@
         <section class="fwh-slide fwh-slide--bg-silver">
 
             <div class="jumbotron jumbotron-fluid">
-                <h1 class="display-4">Fluid jumbotron</h1>
-                <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                <h1 class="display-4">Simply Steph Makeup Artist</h1>
+                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-snapchat-ghost"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+
+                <p class="lead">Keep up with me and follow my socials!</p>
             </div>
             
         <div class="content">
@@ -70,8 +76,12 @@
                         <img src="images/look_11.jpg" class="d-block w-100" alt="Slideshow">
                     </div>
                 </div>
-            </div> 
-        </div> 
+            </div>
+            
+            <a href="gallery.php" class="btn btn-light btn-lg btn-block" role="button" aria-pressed="true">Go to Gallery</a>
+        
+
+
         </section>
 
         <section class="fwh-slide fwh-slide--bg-darkgray">
@@ -82,29 +92,8 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
-
-        <section class="fwh-slide fwh-slide--bg-gray">
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-        </section>
-
-        <section class="fwh-slide fwh-slide--bg-dimgray">
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-        </section>
-
-
-            
- 
-
+</div>
+    
         
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
