@@ -44,10 +44,10 @@
 
             <div class="jumbotron jumbotron-fluid">
                 <h1 class="display-4">Simply Steph Makeup Artist</h1>
-                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="https://www.instagram.com/simply_stephmua/?hl=en" class="fa fa-instagram"></a>
                     <a href="#" class="fa fa-twitter"></a>
                     <a href="#" class="fa fa-snapchat-ghost"></a>
-                    <a href="#" class="fa fa-youtube"></a>
+                    <a href="https://www.youtube.com/user/sophsmithss/featured" class="fa fa-youtube"></a>
 
                 <p class="lead">Keep up with me and follow my socials!</p>
             </div>
@@ -79,21 +79,16 @@
                     </div>
                 </div>
             
-                <p>
+                <h2>
                  Go to my gallery to see my work throughout the year!
-                </p>
+                </h2>
 
                 <a href="gallery.php" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Go to Gallery</a>
         </div>
         </section>
 
         <section class="fwh-slide fwh-slide--bg-gray">
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+        
         </section>
         
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

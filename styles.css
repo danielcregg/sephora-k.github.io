@@ -21,6 +21,7 @@ body {
 
 .fwh-slide--bg-darkgray {
     background: darkgray;
+    overflow: visible;
 }
 
 .fwh-slide--bg-silver {
@@ -41,6 +42,13 @@ h1 {
     font-weight: bolder;
     margin-bottom: 1rem;
 }
+
+h2 {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+    color: white;
+}
  
 p {
     margin-bottom: 1rem;
@@ -53,6 +61,10 @@ p {
     padding: 10px;
     width: 600px;
     
+}
+
+.jumbotron jumbotron-fluid {
+    margin: 0;
 }
 
 .img-fluid {
@@ -99,7 +111,7 @@ form {
 /* Set a specific color for each brand */
  /* Instagram */
 .fa-instagram {
-  background: #125688;
+  background: #430297;
   color: white;
 }
 
