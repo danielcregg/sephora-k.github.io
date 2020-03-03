@@ -38,7 +38,6 @@
     
             <img src="images/logo/logoAnimatedG.gif" class="img-fluid" height="800px" width="1000px" alt="Simply Steph">
            
-        
         </section>
 
         <section class="fwh-slide fwh-slide--bg-silver">
@@ -52,39 +51,43 @@
 
                 <p class="lead">Keep up with me and follow my socials!</p>
             </div>
-            
-        <div class="content">
-            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="3000">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="images/look_16.jpg" class="d-block w-100" alt="Slideshow">
-                    </div>
-
-                    <div class="carousel-item">
-                        <img src="images/look_5.jpg" class="d-block w-100" alt="Slideshow">
-                    </div>
-
-                    <div class="carousel-item">
-                        <img src="images/look_12.jpg" class="d-block w-100" alt="Slideshow">
-                    </div>
-
-                    <div class="carousel-item">
-                        <img src="images/look_4.jpg" class="d-block w-100" alt="Slideshow">
-                    </div>
-                    
-                    <div class="carousel-item">
-                        <img src="images/look_11.jpg" class="d-block w-100" alt="Slideshow">
-                    </div>
-                </div>
-            </div>
-            
-            <a href="gallery.php" class="btn btn-light btn-lg btn-block" role="button" aria-pressed="true">Go to Gallery</a>
-        
-
-
         </section>
 
         <section class="fwh-slide fwh-slide--bg-darkgray">
+            <div class="content">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="3000">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="images/look_16.jpg" class="d-block w-100" alt="Slideshow">
+                        </div>
+
+                        <div class="carousel-item">
+                            <img src="images/look_5.jpg" class="d-block w-100" alt="Slideshow">
+                        </div>
+
+                        <div class="carousel-item">
+                            <img src="images/look_12.jpg" class="d-block w-100" alt="Slideshow">
+                        </div>
+
+                        <div class="carousel-item">
+                            <img src="images/look_4.jpg" class="d-block w-100" alt="Slideshow">
+                        </div>
+                        
+                        <div class="carousel-item">
+                            <img src="images/look_11.jpg" class="d-block w-100" alt="Slideshow">
+                        </div>
+                    </div>
+                </div>
+            
+                <p>
+                 Go to my gallery to see my work throughout the year!
+                </p>
+
+                <a href="gallery.php" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Go to Gallery</a>
+        </div>
+        </section>
+
+        <section class="fwh-slide fwh-slide--bg-gray">
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -92,8 +95,6 @@
         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
         </section>
-</div>
-    
         
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

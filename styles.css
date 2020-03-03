@@ -49,8 +49,10 @@ p {
 
 .content {
     margin: auto;
+    margin-bottom: -100px;
     padding: 10px;
     width: 600px;
+    
 }
 
 .img-fluid {
