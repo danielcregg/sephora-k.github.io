@@ -47,10 +47,9 @@ p {
     color: black;
 }
 
-.container {
- position: fixed;
- margin: auto;
- padding: auto;
+.img-fluid {
+    margin-top: 80px;
+    margin-left: 100px;
 }
 
 button {
