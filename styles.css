@@ -58,10 +58,17 @@ p {
 
 .content {
     margin: auto;
-    margin-bottom: -100px;
-    padding: 10px;
-    width: 600px;
+    padding: 30px;
+    width: 500px;
+    float: left;
     
+}
+
+.content iframe {
+    margin: auto;
+    padding: 30px;
+    width: 500px;
+    float: right;
 }
 
 .jumbotron jumbotron-fluid {

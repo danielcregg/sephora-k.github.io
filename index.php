@@ -86,11 +86,14 @@
                 </h2>
 
                 <a href="gallery.php" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Go to Gallery</a>
-                <br>
+
+                <iframe width="420" height="345" src="https://www.youtube.com/embed/DhvUotj15QU">
+                </iframe>
              </div>
         </section>
 
         <section class="fwh-slide fwh-slide--bg-gray">
+        <br>
         <img src="..." class="rounded float-left" alt="...">
         <img src="..." class="rounded float-right" alt="...">
         
@@ -100,5 +103,13 @@
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
+        <!-- Footer -->
+            <footer class="page-footer font-small pt-4 fixed-bottom">
+
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <a href="https://mdbootstrap.com/"> Simply_StephMUA</a>
+            </div>
+
+            </footer>
     </body>
 </html>
