@@ -51,6 +51,7 @@
                     <img src="images/look_1.jpg" class="card-img-top" alt="Look 1">
                     </div>
                 </div>
+                
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_2.jpg" class="card-img-top" alt="Look 2">
@@ -65,6 +66,16 @@
                     <div class="card">
                     <img src="images/look_4.jpg" class="card-img-top" alt="Look 4">
                     </div>
+                </div>
+                <div>
+                    <blockquote class="blockquote mb-0 card-body">
+                    <img src="images/logo/logoAnimatedG.gif">
+                    <footer class="blockquote-footer">
+                    </footer>
+                    </blockquote>
+                </div>
+                <div>
+                    // empty divs create space 
                 </div>
                 <div class="col mb-4">
                     <div class="card">
@@ -81,6 +92,11 @@
                     <img src="images/look_7.jpg" class="card-img-top" alt="Look 7">
                 </div>
                 </div>
+                 <div class="col mb-4">
+                    <div class="card">
+                    <img src="images/look_16.jpg" class="card-img-top" alt="Look 16">
+                    </div>
+                </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_8.jpg" class="card-img-top" alt="Look 8">
@@ -88,17 +104,23 @@
                 </div>
                 <div class="col mb-4">
                     <div class="card">
-                    <img src="images/look_14.jpg" class="card-img-top" alt="Look 14">
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
                     <img src="images/look_10.jpg" class="card-img-top" alt="Look 10">
                     </div>
                 </div>
-                <div class="col mb-4">
+                   <div>
+                    <blockquote class="blockquote mb-0 card-body">
+                    <img src="images/logo/logoAnimatedG.gif">
+                    <footer class="blockquote-footer">
+                    
+                    </footer>
+                    </blockquote>
+                </div>
+                <div>
+                
+                </div>
+                 <div class="col mb-4">
                     <div class="card">
-                    <img src="images/look_11.jpg" class="card-img-top" alt="Look 11">
+                    <img src="images/look_13.jpg" class="card-img-top" alt="Look 13">
                     </div>
                 </div>
                 <div class="col mb-4">
@@ -108,7 +130,7 @@
                 </div>
                 <div class="col mb-4">
                     <div class="card">
-                    <img src="images/look_13.jpg" class="card-img-top" alt="Look 13">
+                    <img src="images/look_14.jpg" class="card-img-top" alt="Look 14">
                     </div>
                 </div>
                 <div class="col mb-4">
@@ -129,7 +151,7 @@
             <footer class="page-footer font-small pt-4 fixed-bottom">
 
             <div class="footer-copyright text-center py-3">© 2020 Copyright:
-                <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+                <a href="https://mdbootstrap.com/"> Simply_StephMUA</a>
             </div>
 
             </footer>

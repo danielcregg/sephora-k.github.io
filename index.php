@@ -4,6 +4,7 @@
         <link rel="stylesheet" href="styles.css">
         <!-- icons library -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" href="images/logo/icon.jpg" type="image/icon type">
     </head>
 
     <body>
@@ -85,7 +86,8 @@
                 </h2>
 
                 <a href="gallery.php" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Go to Gallery</a>
-        </div>
+                <br>
+             </div>
         </section>
 
         <section class="fwh-slide fwh-slide--bg-gray">

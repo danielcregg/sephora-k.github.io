@@ -110,17 +110,10 @@
                 <input type="text" class="form-control" id="inputZip">
                 </div>
             </div>
-            <div class="form-group">
-                <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="gridCheck">
-                <label class="form-check-label" for="gridCheck">
-                    Check me out
-                </label>
-                </div>
-            </div>
+            <br>
             <button type="submit" class="btn btn-primary">Book Appointment</button>
             </form>
-       
+            <br>
        
        
        
@@ -132,7 +125,7 @@
             <footer class="page-footer font-small pt-4 fixed-bottom">
 
             <div class="footer-copyright text-center py-3">© 2020 Copyright:
-                <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+                <a href="https://mdbootstrap.com/"> Simply_StephMUA</a>
             </div>
 
             </footer>
