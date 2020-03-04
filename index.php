@@ -94,8 +94,10 @@
 
         <section class="fwh-slide fwh-slide--bg-gray">
         <br>
-        <img src="..." class="rounded float-left" alt="...">
-        <img src="..." class="rounded float-right" alt="...">
+        <img src="images/logo/priceList.png" class="rounded float-left" alt="Pricing">
+        <img src="images/logo/priceList.png" class="rounded float-right" alt="Student Pricing">
+
+        <a href="contact.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Go to Bookings</a>
         
         </section>
         
@@ -104,12 +106,15 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
         <!-- Footer -->
-            <footer class="page-footer font-small pt-4 fixed-bottom">
 
-            <div class="footer-copyright text-center py-3">© 2020 Copyright:
-                <a href="https://mdbootstrap.com/"> Simply_StephMUA</a>
-            </div>
+        <footer class="page-footer font-small blue">
 
-            </footer>
-    </body>
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2020 Copyright:
+            <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+        </div>
+        <!-- Copyright -->
+
+        </footer>
+<!-- Footer -->
 </html>

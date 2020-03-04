@@ -68,7 +68,7 @@ p {
     margin: auto;
     padding: 30px;
     width: 500px;
-    float: right;
+    float: left;
 }
 
 .jumbotron jumbotron-fluid {
