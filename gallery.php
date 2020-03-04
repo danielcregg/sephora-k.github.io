@@ -54,118 +54,66 @@
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_2.jpg" class="card-img-top" alt="Look 2">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_3.jpg" class="card-img-top" alt="Look 3">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_4.jpg" class="card-img-top" alt="Look 4">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_5.jpg" class="card-img-top" alt="Look 5">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_6.jpg" class="card-img-top" alt="Look 6">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_7.jpg" class="card-img-top" alt="Look 7">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
-                    </div>
+                </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_8.jpg" class="card-img-top" alt="Look 8">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_14.jpg" class="card-img-top" alt="Look 14">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_10.jpg" class="card-img-top" alt="Look 10">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_11.jpg" class="card-img-top" alt="Look 11">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_12.jpg" class="card-img-top" alt="Look 12">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_13.jpg" class="card-img-top" alt="Look 13">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div class="card">
                     <img src="images/look_9.jpg" class="card-img-top" alt="Look 9">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    </div>
                     </div>
                 </div>
 

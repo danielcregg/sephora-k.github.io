@@ -51,11 +51,12 @@
 
                 <p class="lead">Keep up with me and follow my socials!</p>
             </div>
+                    <img src="images/logo/icon.png" height="250px" width="250px">
         </section>
 
         <section class="fwh-slide fwh-slide--bg-darkgray">
             <div class="content">
-                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="3000">
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="2000">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <img src="images/look_16.jpg" class="d-block w-100" alt="Slideshow">
@@ -88,6 +89,8 @@
         </section>
 
         <section class="fwh-slide fwh-slide--bg-gray">
+        <img src="..." class="rounded float-left" alt="...">
+        <img src="..." class="rounded float-right" alt="...">
         
         </section>
         

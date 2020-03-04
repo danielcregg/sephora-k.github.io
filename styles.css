@@ -26,6 +26,7 @@ body {
 
 .fwh-slide--bg-silver {
     background: silver;
+    overflow: visible;
 }
 
 .fwh-slide--bg-lightgray {
@@ -72,8 +73,9 @@ p {
     
 }
 
-.lead {
-    text-decoration-color: dimgray;
+p .lead {
+   color: dimgray;
+   font-size: 50px;
 }
 
 button {
